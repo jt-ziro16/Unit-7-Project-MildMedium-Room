@@ -1,0 +1,30 @@
+.counter {
+    text-align: right;
+}
+
+img {
+    height: 400px;
+    width: 450px;
+}
+
+body {
+    background-color: #401c06;
+}
+
+h1 {
+    border: solid 3px;
+    padding: 7px;
+    color: orange;
+}
+
+p {
+    color: orange;
+}
+
+.counter {
+    color: #99887d;
+}
+
+.results {
+    color: orange;
+}
